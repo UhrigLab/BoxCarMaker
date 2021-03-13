@@ -3,4 +3,4 @@ The provided R script allows users to take an MS1 spectra list as input and divi
 
 ### Please cite:
 
-Mehta D, Scandola S, Uhrig RG (2020) Direct data-independent acquisition (direct DIA) enables substantially improved label-free quantitative proteomics in Arabidopsis. bioRxiv.doi: [https://doi.org/10.1101/2020.11.07.372276](https://doi.org/10.1101/2020.11.07.372276)
+Mehta D, Scandola S, Uhrig RG (2020) BoxCar and library-free data-independent acquisition substantially improve the depth, range, and completeness of label-free quantitative proteomics in Arabidopsis. bioRxiv.doi: [https://doi.org/10.1101/2020.11.07.372276](https://doi.org/10.1101/2020.11.07.372276)
